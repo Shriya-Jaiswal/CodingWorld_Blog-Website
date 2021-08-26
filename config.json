@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        "local_server"  : "True",
+        "local_uri"  : "mysql+pymysql://root:@localhost/codingworld",
+        "prod_uri"  : "mysql+pymysql://root:@localhost/codingworld",
+        "fb_url"  : "https://facebook.com/codingWorld",
+        "tw_url"  : "https://twitter.com/codingWorld",
+        "gh_url"  : "https://github.com/codingWorld",
+        "blog_name"  :   "CodingWorld",
+        "tag_line"  : "A Blog liked by #Programmers",
+        "gmail-user"  : "shriyajaiswal90@gmail.com",
+        "gmail-password"  : "Jaishree90@",
+        "about_text" : "Hello my name is shriya jaiswal and i created this blog for posting coding related topics. ",
+        "no_of_posts":2,
+        "login_image" : "home-bg.jpg",
+        "admin_user":"shree",
+        "admin_password":"krishna",
+        "upload_location" : "D:\\Flask\\Learn Flask tuts\\static"
+
+
+    }
+}
